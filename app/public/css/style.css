@@ -151,6 +151,18 @@ background-color: whitesmoke !important;
     margin-left: 0;
 }
 
+#vid-txt {
+    margin-left: 31%;
+}
+
+.vid-row {
+    margin-top: -45px;
+}
+
+.vid-container {
+    margin-left: 12% !important
+}
+
 .graph-img {
     min-width: 140%;
     margin-left: 16%;
