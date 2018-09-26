@@ -151,6 +151,11 @@ background-color: whitesmoke !important;
     margin-left: 0;
 }
 
+.graph-img {
+    min-width: 140%;
+    margin-left: 16%;
+}
+
 .mid-txt {
     font-weight: 800;
     margin-top: 17px;

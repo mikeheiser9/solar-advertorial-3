@@ -7,7 +7,7 @@ var express = require("express");
 var bodyParser = require("body-parser");
 // Tells node that we are creating an "express" server
 var app = express();
-var PORT = process.env.PORT || 3001;
+var PORT = process.env.PORT || 5000;
 
 var db = require("./app/models")
 // Sets up the Express app to handle data parsing
